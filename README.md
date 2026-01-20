@@ -24,7 +24,7 @@ Die geplottete Funktion sieht folgendermassen aus:
 </p>
 
 <p align="left">
-<img src="https://github.com/robovisioneer/OCV_KochNN/blob/main/Kochkurve.png" alt="kochkurve" width="100" height="100"/>
+<img src="https://github.com/robovisioneer/OCV_KochNN/blob/main/Kochkurve.png" alt="kochkurve" width="684" height="398"/>
 </p>
 
 <p align="left">
